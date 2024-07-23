@@ -1,0 +1,4 @@
+# cat=Quality/; type=text; label=api_user in sightengine
+api_user =
+# cat=Quality/; type=text; label=api_secret in sightengine
+api_secret =

@@ -1,0 +1,30 @@
+{
+    "name": "libeo/lbo-image-quality",
+    "type": "typo3-cms-extension",
+    "description": "Use Sightengine (AI) to check quality of images selected by editors.",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Pierre Boivin",
+            "email": "pierre.boivin@libeo.com"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Libeo\\LboImageQuality\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Libeo\\LboImageQuality\\Tests\\": "Tests"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "lbo_image_quality"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2016-05-31T11:27:46Z" product-name="lbo_image_quality">
+        <header/>
+        <body>
+            <trans-unit id="message.error.validation"><source>Validation of image quality error</source></trans-unit>
+            <trans-unit id="message.ok.validation"><source>Validation of image quality</source></trans-unit>
+            <trans-unit id="message.api.keys"><source>API user or secret not set</source></trans-unit>
+        </body>
+    </file>
+</xliff>
